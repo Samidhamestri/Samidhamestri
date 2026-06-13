@@ -286,7 +286,7 @@ Completed a structured data analytics internship gaining hands-on exposure to th
 ## 🎯 Current Focus
 
 ```yaml
-# Samidha Mestri — Current Focus 2025
+# Samidha Mestri — Current Focus 2026
 ─────────────────────────────────────────────────
 
 learning:
