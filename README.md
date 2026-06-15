@@ -232,6 +232,8 @@ Completed a structured data analytics internship gaining hands-on exposure to th
 [![HackerRank](https://img.shields.io/badge/HackerRank-Samidhamestri-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/Samidhamestri)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Samidhamestri-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Samidhamestri)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/samidhamestri?theme=dark&font=Fira+Code&ext=contest)
+
 </div>
 
 ---
@@ -257,8 +259,7 @@ Completed a structured data analytics internship gaining hands-on exposure to th
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Samidhamestri&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=Samidhamestri&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
 </div>
 
 ---
