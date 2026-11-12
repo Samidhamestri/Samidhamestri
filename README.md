@@ -14,7 +14,7 @@
 
 ![MBA Tech](https://img.shields.io/badge/MBA%20Tech-AI%20%26%20ML-7b2fff?style=for-the-badge&logo=academia&logoColor=white)
 ![RAIT](https://img.shields.io/badge/RAIT-DY%20Patil%20University-4a0080?style=for-the-badge&logoColor=white)
-![Trimester](https://img.shields.io/badge/Trimester-IV-9D4EDD?style=for-the-badge&logoColor=white)
+![Trimester](https://img.shields.io/badge/Trimester-XI-9D4EDD?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/📍-Navi%20Mumbai%2C%20India-0d0221?style=for-the-badge&logoColor=white)
 
 </div>
